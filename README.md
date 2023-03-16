@@ -12,9 +12,12 @@
 
 - This webside has the HTML elements follow a independent logical structure of styling and positioning
 
+- This application include alt tag in the image to describle the content to help people with disability
+
 ## Usage
 
 This application has HTML deloy. Please right click on the index.HTML and choose open in default browser
+Link to deloy application:
 
 ## Feature
 
