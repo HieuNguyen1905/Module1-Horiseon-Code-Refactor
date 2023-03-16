@@ -17,7 +17,7 @@
 ## Usage
 
 This application has HTML deloy. Please right click on the index.HTML and choose open in default browser
-Link to deloy application:
+Link to deloy application: https://hieunguyen1905.github.io/Module1-Horiseon-Code-Refactor/
 
 ## Feature
 
